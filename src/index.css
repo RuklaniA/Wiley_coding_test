@@ -8,7 +8,7 @@ background-position: center;
 text-align: center;
 /* opacity:.7; */
 /* filter: grayscale(70%); */
-/* filter: brightness(0.25); */
+filter: brightness(0.25);
 }
 
 .header{

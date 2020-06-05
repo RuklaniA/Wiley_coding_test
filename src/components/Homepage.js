@@ -1,12 +1,12 @@
 import React,{Component} from 'react';
-import NavigationBar from './NavBar'
+// import NavigationBar from './NavBar'
 
 class Home extends Component{
     render(){
         return(
 
             <div className='layout'>
-            <NavigationBar/>
+            {/* <NavigationBar/> */}
             </div>
         )
     }
